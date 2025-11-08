@@ -31,7 +31,7 @@ A comprehensive fullstack web accessibility analyzer that helps identify and fix
 ![Landing Page](./screenshots/landing.png)
 
 ### Dashboard Analytics
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboards.png)
 
 ### Detailed Issue Report
 ![Issues](./screenshots/issues.png)
@@ -215,40 +215,8 @@ npm run lint       # Lint code
 
 ---
 
-## 🗄️ Database Schema
 
-The application uses PostgreSQL with the following main tables:
 
-```sql
--- Users
-CREATE TABLE users (
-  id SERIAL PRIMARY KEY,
-  email VARCHAR(255) UNIQUE NOT NULL,
-  password VARCHAR(255) NOT NULL,
-  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- Analysis Results
-CREATE TABLE analysis_results (
-  id SERIAL PRIMARY KEY,
-  user_id INTEGER REFERENCES users(id),
-  url TEXT NOT NULL,
-  score INTEGER,
-  results JSONB,
-  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
--- Analysis Issues
-CREATE TABLE analysis_issues (
-  id SERIAL PRIMARY KEY,
-  analysis_id INTEGER REFERENCES analysis_results(id),
-  category VARCHAR(100),
-  severity VARCHAR(50),
-  description TEXT,
-  element TEXT,
-  recommendation TEXT
-);
-```
 
 ---
 
@@ -286,118 +254,9 @@ VITE_API_URL=http://localhost:3000
 
 ---
 
-## 📡 API Endpoints
-
-### Authentication
-```
-POST   /api/auth/register     - Register new user
-POST   /api/auth/login        - Login user
-GET    /api/auth/profile      - Get user profile
-```
-
-### Analysis
-```
-POST   /api/analyze           - Analyze a website
-GET    /api/analysis/:id      - Get analysis by ID
-GET    /api/analysis/user/:userId - Get user's analyses
-DELETE /api/analysis/:id      - Delete analysis
-```
-
-### Reports
-```
-GET    /api/reports/:id       - Get detailed report
-GET    /api/reports/export/:id - Export report as PDF
-```
-
----
-
-## 🧪 Testing
-
-```bash
-# Run all tests
-npm test
-
-# Run single test file
-npm run test:single
-
 # Run with coverage
 npm test -- --coverage
 ```
-
----
-
-## 🐳 Docker Commands
-
-```bash
-# Start all services
-docker compose up -d
-
-# Stop all services
-docker compose down
-
-# View logs
-docker compose logs -f
-
-# Restart a service
-docker compose restart db
-
-# Remove volumes (careful - deletes data!)
-docker compose down -v
-```
-
----
-
-## 📊 Usage
-
-1. **Register/Login** - Create an account or sign in
-2. **Enter URL** - Input the website URL you want to analyze
-3. **Run Analysis** - Click "Analyze" button
-4. **View Results** - See comprehensive accessibility report with:
-   - Overall accessibility score
-   - Issues by severity (Critical, Serious, Moderate, Minor)
-   - Category breakdown (ARIA, Color Contrast, Keyboard, etc.)
-   - Screen reader compatibility score
-   - Detailed issue descriptions with recommendations
-5. **Export Report** - Download PDF report for stakeholders
-
----
-
-## 🚀 Deployment
-
-### Render Deployment
-
-See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed deployment instructions.
-
-**Quick Steps:**
-1. Deploy PostgreSQL database on Render
-2. Deploy backend as Web Service
-3. Deploy frontend as Static Site
-4. Configure environment variables
-5. Update CORS settings
-
-### Alternative Platforms
-- **Vercel** - Frontend
-- **Railway** - Backend + Database
-- **Heroku** - Full stack
-- **DigitalOcean** - VPS deployment
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -429,18 +288,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🗺️ Roadmap
 
-- [ ] Add browser extension
-- [ ] Implement CI/CD pipeline
-- [ ] Add more WCAG 2.2 criteria
-- [ ] Support for single page apps (SPA) analysis
-- [ ] Add API rate limiting
-- [ ] Implement caching layer
-- [ ] Add multi-language support
-- [ ] Create mobile app
-
----
 
 ## ⭐ Star History
 
