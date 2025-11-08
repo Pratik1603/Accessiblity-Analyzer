@@ -1,0 +1,1176 @@
+{
+  "url": "https://www.whitehouse.gov/",
+  "timestamp": "2025-10-11T14:53:27.333Z",
+  "score": 94,
+  "customChecks": {
+    "images": {
+      "total": 16,
+      "withAlt": 16,
+      "decorative": 7,
+      "issues": [],
+      "details": [
+        {
+          "src": "https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/whitehouse-47-logo.png",
+          "alt": "",
+          "hasAlt": true,
+          "altQuality": "missing",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": true,
+          "isVisible": true,
+          "isLinkedImage": true,
+          "linkText": "",
+          "width": 82.70833587646484,
+          "height": 38.5,
+          "naturalWidth": 868,
+          "naturalHeight": 404,
+          "isLazyLoaded": false,
+          "xpath": "/html/body/div[1]/header[1]/div[1]/div[1]/div[1]/div[3]/div[2]/a[1]/picture[1]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/04/President-Trump-Cabinet-Meeting.jpg",
+          "alt": "President Trump Cabinet Meeting",
+          "hasAlt": true,
+          "altQuality": "good",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": false,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 1902.979248046875,
+          "height": 815.5625,
+          "naturalWidth": 1919,
+          "naturalHeight": 1279,
+          "isLazyLoaded": false,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/04/liberation-day-potus.jpg",
+          "alt": "President Trump Liberation Day",
+          "hasAlt": true,
+          "altQuality": "good",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": false,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 1902.979248046875,
+          "height": 815.5625,
+          "naturalWidth": 1919,
+          "naturalHeight": 1279,
+          "isLazyLoaded": false,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/04/Medal-of-Honor-Recipients.jpg",
+          "alt": "President Trump Medal of Honor Recipients",
+          "hasAlt": true,
+          "altQuality": "good",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": false,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 1902.979248046875,
+          "height": 815.5625,
+          "naturalWidth": 1919,
+          "naturalHeight": 1279,
+          "isLazyLoaded": false,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/08/wh47-emblem-white.png",
+          "alt": "",
+          "hasAlt": true,
+          "altQuality": "missing",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": true,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 84,
+          "height": 128.9479217529297,
+          "naturalWidth": 299,
+          "naturalHeight": 459,
+          "isLazyLoaded": true,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[1]/div[2]/figure[1]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/08/donald-j-trump-signature-75.png",
+          "alt": "",
+          "hasAlt": true,
+          "altQuality": "missing",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": true,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 160,
+          "height": 92.65625,
+          "naturalWidth": 278,
+          "naturalHeight": 161,
+          "isLazyLoaded": true,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[1]/div[2]/figure[2]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/06/President-Donald-Trump-Official-Presidential-Portrait.png",
+          "alt": "President Donald J. Trump Official Presidential Portrait",
+          "hasAlt": true,
+          "altQuality": "good",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": false,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 362.51043701171875,
+          "height": 507.51043701171875,
+          "naturalWidth": 1919,
+          "naturalHeight": 1079,
+          "isLazyLoaded": true,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/01/Vice-President-Elect-J.D.-Vance.jpg",
+          "alt": "",
+          "hasAlt": true,
+          "altQuality": "missing",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": true,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 317.8333435058594,
+          "height": 444.9583435058594,
+          "naturalWidth": 720,
+          "naturalHeight": 932,
+          "isLazyLoaded": true,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/02/FLOTUS-Official-Photo.jpg?cb=1740495198",
+          "alt": "",
+          "hasAlt": true,
+          "altQuality": "missing",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": true,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 317.8333435058594,
+          "height": 444.9583435058594,
+          "naturalWidth": 720,
+          "naturalHeight": 903,
+          "isLazyLoaded": true,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/01/50262545343_79ff3b1141_o.jpg",
+          "alt": "",
+          "hasAlt": true,
+          "altQuality": "missing",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": true,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 317.8333435058594,
+          "height": 444.9583435058594,
+          "naturalWidth": 1919,
+          "naturalHeight": 1279,
+          "isLazyLoaded": true,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[4]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/04/POTUS-EO-Signing-2.png",
+          "alt": "President Trump Executive Order Signing",
+          "hasAlt": true,
+          "altQuality": "good",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": false,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 685,
+          "height": 513.75,
+          "naturalWidth": 1919,
+          "naturalHeight": 1279,
+          "isLazyLoaded": true,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[1]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/04/POTUS-News-Conference-2.jpg",
+          "alt": "President Trump and First Lady Melania Trump",
+          "hasAlt": true,
+          "altQuality": "good",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": false,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 685,
+          "height": 513.75,
+          "naturalWidth": 1919,
+          "naturalHeight": 1279,
+          "isLazyLoaded": true,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[3]/div[1]/div[2]/div[1]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/01/whitehouse-47-media-text-block-image.jpg",
+          "alt": "Donald J. Trump",
+          "hasAlt": true,
+          "altQuality": "good",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": false,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 1134.03125,
+          "height": 723.3229370117188,
+          "naturalWidth": 0,
+          "naturalHeight": 0,
+          "isLazyLoaded": true,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[4]/div[1]/figure[1]/picture[1]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/04/President-Trump-Elon-Musk.jpg",
+          "alt": "President Trump and Elon Musk in a Tesla",
+          "hasAlt": true,
+          "altQuality": "good",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": false,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 685,
+          "height": 513.75,
+          "naturalWidth": 0,
+          "naturalHeight": 0,
+          "isLazyLoaded": true,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/uploads/2025/04/Karoline-Leavitt-Press-Conference.png",
+          "alt": "Karoline Leavitt Press Secretary",
+          "hasAlt": true,
+          "altQuality": "good",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": false,
+          "isVisible": true,
+          "isLinkedImage": false,
+          "linkText": null,
+          "width": 685,
+          "height": 513.75,
+          "naturalWidth": 0,
+          "naturalHeight": 0,
+          "isLazyLoaded": true,
+          "xpath": "/html/body/div[1]/main[1]/div[1]/div[5]/div[1]/div[2]/div[1]/img[1]"
+        },
+        {
+          "src": "https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/whitehouse-47-logo.png",
+          "alt": "",
+          "hasAlt": true,
+          "altQuality": "missing",
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "isDecorative": true,
+          "isVisible": true,
+          "isLinkedImage": true,
+          "linkText": "",
+          "width": 182,
+          "height": 84.70833587646484,
+          "naturalWidth": 868,
+          "naturalHeight": 404,
+          "isLazyLoaded": false,
+          "xpath": "/html/body/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[1]/figure[1]/picture[1]/img[1]"
+        }
+      ]
+    },
+    "headings": {
+      "hierarchy": [
+        {
+          "level": 2,
+          "text": "The work never stops",
+          "isVisible": true,
+          "length": 20,
+          "index": 0
+        },
+        {
+          "level": 2,
+          "text": "America is Back",
+          "isVisible": true,
+          "length": 15,
+          "index": 1
+        },
+        {
+          "level": 2,
+          "text": "Honoring our Vets",
+          "isVisible": true,
+          "length": 17,
+          "index": 2
+        },
+        {
+          "level": 2,
+          "text": "Executive Actions",
+          "isVisible": true,
+          "length": 17,
+          "index": 3
+        },
+        {
+          "level": 2,
+          "text": "News",
+          "isVisible": true,
+          "length": 4,
+          "index": 4
+        },
+        {
+          "level": 2,
+          "text": "OUR PRIORITIES",
+          "isVisible": true,
+          "length": 14,
+          "index": 5
+        },
+        {
+          "level": 2,
+          "text": "Gallery",
+          "isVisible": true,
+          "length": 7,
+          "index": 6
+        },
+        {
+          "level": 2,
+          "text": "Videos",
+          "isVisible": true,
+          "length": 6,
+          "index": 7
+        },
+        {
+          "level": 3,
+          "text": "Stay in the know",
+          "isVisible": true,
+          "length": 16,
+          "index": 8
+        },
+        {
+          "level": 3,
+          "text": "Subscribe to The White House newsletter",
+          "isVisible": true,
+          "length": 39,
+          "index": 9
+        }
+      ],
+      "issues": [
+        {
+          "type": "error",
+          "message": "No h1 heading found on the page",
+          "impact": "serious"
+        }
+      ],
+      "h1Count": 0,
+      "totalCount": 10,
+      "screenshot": "C:\\Users\\prati\\OneDrive\\Documents\\AccessiblityAnalyser\\frontend\\my-project\\public\\screenshots\\heading-1760194402105.png"
+    },
+    "colorContrast": {
+      "totalElements": 55,
+      "issues": [
+        {
+          "type": "error",
+          "message": "Insufficient color contrast ratio: 1.00 (required: 3)",
+          "element": "/html/body/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+          "text": "Executive Actions",
+          "impact": "serious",
+          "details": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "ratio": 1,
+            "required": 3
+          }
+        },
+        {
+          "type": "error",
+          "message": "Insufficient color contrast ratio: 1.00 (required: 3)",
+          "element": "/html/body/div[1]/main[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/h2[1]",
+          "text": "News",
+          "impact": "serious",
+          "details": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "ratio": 1,
+            "required": 3
+          }
+        },
+        {
+          "type": "error",
+          "message": "Insufficient color contrast ratio: 1.00 (required: 3)",
+          "element": "/html/body/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+          "text": "Gallery",
+          "impact": "serious",
+          "details": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "ratio": 1,
+            "required": 3
+          }
+        },
+        {
+          "type": "error",
+          "message": "Insufficient color contrast ratio: 1.00 (required: 3)",
+          "element": "/html/body/div[1]/main[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/h2[1]",
+          "text": "Videos",
+          "impact": "serious",
+          "details": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "ratio": 1,
+            "required": 3
+          }
+        },
+        {
+          "type": "error",
+          "message": "Insufficient color contrast ratio: 1.00 (required: 3)",
+          "element": "/html/body/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/form[1]/fieldset[1]/div[2]/label[1]",
+          "text": "Please leave blank.",
+          "impact": "serious",
+          "details": {
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(255,255,255)",
+            "ratio": 1,
+            "required": 3
+          }
+        }
+      ],
+      "screenshot": "C:\\Users\\prati\\OneDrive\\Documents\\AccessiblityAnalyser\\frontend\\my-project\\public\\screenshots\\color-contrast-1760194400120.png"
+    },
+    "keyboardNavigation": {
+      "totalFocusable": 85,
+      "tabOrderIssues": [],
+      "focusIndicatorIssues": [],
+      "hasSkipLink": true,
+      "focusableElements": [
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Skip to content"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Democrat Shutdown is ImminentD"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "tabindex": null,
+          "text": "Menu"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "The\n\t\t\t\t\tWhite House"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "tabindex": null,
+          "text": "Search"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "News"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Back"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Articles"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Briefings & Statements"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Fact Sheets"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Presidential Actions"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Back"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Executive Orders"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Nominations & Appointments"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Presidential Memoranda"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Proclamations"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Remarks"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Administration"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Back"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Donald J. Trump"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "JD Vance"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Melania Trump"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Usha Vance"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "The Cabinet"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Back"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Video Library"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Gallery"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Live News"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "White House Wire"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Issues"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Back"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "America 250"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "The Founders Museum"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "America’s Founding Fathers"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Moments That Made Us"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Back"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Road to Revolution: A Timeline"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Signers of the Declaration of "
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Our Government"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Back"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Contact"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Visit"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Internships"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "X"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Instagram"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Facebook"
+        },
+        {
+          "tag": "input",
+          "type": "search",
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "tabindex": null,
+          "text": "Press Enter to Search"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "View the list of private and f"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Read More"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "tabindex": "-1",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "submit",
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "News"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Wire"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Issues"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Contact"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Visit"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "EOP"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Administration"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Gallery"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Video Library"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "America 250"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Founding Fathers"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "The Signers"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "tabindex": "-1",
+          "text": ""
+        },
+        {
+          "tag": "input",
+          "type": "submit",
+          "tabindex": null,
+          "text": ""
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "X"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Instagram"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Facebook"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "WH.GOV"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Copyright"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Privacy"
+        },
+        {
+          "tag": "a",
+          "type": null,
+          "tabindex": null,
+          "text": "Back to top"
+        }
+      ],
+      "issues": []
+    },
+    "aria": {
+      "totalAriaElements": 10,
+      "issues": [
+        {
+          "type": "error",
+          "message": "Interactive element without accessible name",
+          "element": "/html/body/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[2]/form[1]/fieldset[1]/div[2]/input[1]",
+          "impact": "critical"
+        },
+        {
+          "type": "error",
+          "message": "Interactive element without accessible name",
+          "element": "/html/body/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/form[1]/fieldset[1]/div[2]/input[1]",
+          "impact": "critical"
+        }
+      ],
+      "screenshot": "C:\\Users\\prati\\OneDrive\\Documents\\AccessiblityAnalyser\\frontend\\my-project\\public\\screenshots\\aria-1760194404050.png"
+    },
+    "forms": {
+      "totalForms": 3,
+      "totalInputs": 7,
+      "issues": [
+        {
+          "type": "warning",
+          "message": "Form input using placeholder as sole label",
+          "element": "/html/body/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[2]/form[1]/fieldset[1]/div[1]/input[1]",
+          "impact": "moderate"
+        },
+        {
+          "type": "warning",
+          "message": "Required field missing aria-required attribute",
+          "element": "/html/body/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[2]/form[1]/fieldset[1]/div[1]/input[1]",
+          "impact": "minor"
+        },
+        {
+          "type": "error",
+          "message": "Form input without label: submit input",
+          "element": "input",
+          "impact": "critical"
+        },
+        {
+          "type": "warning",
+          "message": "Form input using placeholder as sole label",
+          "element": "/html/body/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/form[1]/fieldset[1]/div[1]/input[1]",
+          "impact": "moderate"
+        },
+        {
+          "type": "warning",
+          "message": "Required field missing aria-required attribute",
+          "element": "/html/body/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/form[1]/fieldset[1]/div[1]/input[1]",
+          "impact": "minor"
+        },
+        {
+          "type": "error",
+          "message": "Form input without label: submit input",
+          "element": "input",
+          "impact": "critical"
+        },
+        {
+          "type": "warning",
+          "message": "Form may lack proper error announcement setup",
+          "element": "form",
+          "impact": "moderate"
+        },
+        {
+          "type": "warning",
+          "message": "Form may lack proper error announcement setup",
+          "element": "form",
+          "impact": "moderate"
+        },
+        {
+          "type": "warning",
+          "message": "Form may lack proper error announcement setup",
+          "element": "form",
+          "impact": "moderate"
+        },
+        {
+          "type": "error",
+          "message": "Fieldset without legend",
+          "element": "/html/body/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[2]/form[1]/fieldset[1]",
+          "impact": "moderate"
+        },
+        {
+          "type": "error",
+          "message": "Fieldset without legend",
+          "element": "/html/body/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/form[1]/fieldset[1]",
+          "impact": "moderate"
+        }
+      ],
+      "screenshot": "C:\\Users\\prati\\OneDrive\\Documents\\AccessiblityAnalyser\\frontend\\my-project\\public\\screenshots\\form-1760194405712.png"
+    },
+    "language": {
+      "pageLang": "en-US",
+      "hasLang": true,
+      "languageChanges": [
+        {
+          "tag": "html",
+          "lang": "en-US",
+          "text": "\n\t\n\t\n\n\timg:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]"
+        }
+      ],
+      "issues": []
+    },
+    "landmarks": {
+      "landmarks": {
+        "header": 1,
+        "nav": 4,
+        "main": 1,
+        "aside": 0,
+        "footer": 1,
+        "section": 0,
+        "article": 0
+      },
+      "issues": []
+    },
+    "meta": {
+      "meta": {
+        "title": "The White House",
+        "hasViewport": true,
+        "hasDescription": true,
+        "issues": []
+      },
+      "testedViewports": [
+        "desktop",
+        "tablet",
+        "small-tablet",
+        "mobile"
+      ],
+      "issues": []
+    }
+  },
+  "summary": {
+    "totalIssues": 19,
+    "criticalIssues": 4,
+    "seriousIssues": 6,
+    "moderateIssues": 7,
+    "minorIssues": 2,
+    "topIssues": [
+      {
+        "type": "custom",
+        "message": "Interactive element without accessible name",
+        "impact": "critical",
+        "element": "/html/body/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[2]/form[1]/fieldset[1]/div[2]/input[1]"
+      },
+      {
+        "type": "custom",
+        "message": "Interactive element without accessible name",
+        "impact": "critical",
+        "element": "/html/body/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/form[1]/fieldset[1]/div[2]/input[1]"
+      },
+      {
+        "type": "custom",
+        "message": "Form input without label: submit input",
+        "impact": "critical",
+        "element": "input"
+      },
+      {
+        "type": "custom",
+        "message": "Form input without label: submit input",
+        "impact": "critical",
+        "element": "input"
+      },
+      {
+        "type": "custom",
+        "message": "No h1 heading found on the page",
+        "impact": "serious",
+        "element": null
+      },
+      {
+        "type": "custom",
+        "message": "Insufficient color contrast ratio: 1.00 (required: 3)",
+        "impact": "serious",
+        "element": "/html/body/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/h2[1]"
+      },
+      {
+        "type": "custom",
+        "message": "Insufficient color contrast ratio: 1.00 (required: 3)",
+        "impact": "serious",
+        "element": "/html/body/div[1]/main[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/h2[1]"
+      },
+      {
+        "type": "custom",
+        "message": "Insufficient color contrast ratio: 1.00 (required: 3)",
+        "impact": "serious",
+        "element": "/html/body/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/h2[1]"
+      },
+      {
+        "type": "custom",
+        "message": "Insufficient color contrast ratio: 1.00 (required: 3)",
+        "impact": "serious",
+        "element": "/html/body/div[1]/main[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/h2[1]"
+      },
+      {
+        "type": "custom",
+        "message": "Insufficient color contrast ratio: 1.00 (required: 3)",
+        "impact": "serious",
+        "element": "/html/body/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/form[1]/fieldset[1]/div[2]/label[1]"
+      }
+    ]
+  }
+}
