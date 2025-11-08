@@ -36,6 +36,11 @@ A comprehensive fullstack web accessibility analyzer that helps identify and fix
 ### Detailed Issue Report
 ![Issues](./screenshots/issues.png)
 
+### Issue Page
+![Issues](./screenshots/issuePage.png)
+
+---
+
 ---
 
 ## 🛠️ Tech Stack
